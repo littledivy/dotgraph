@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "build": "./bootstrap.ts",
+    "fmt": "deno fmt"
+  }
+}
